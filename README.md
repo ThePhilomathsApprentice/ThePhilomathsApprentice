@@ -26,8 +26,8 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/yashpjoshi/)
 | ------ | ------ | ------ | ------ |
 | PG Diploma in Embedded Systems Design | CDAC, Pune | 75.14 | August 2018 - February 2019 |
 | B.Tech in EEE | Indus University, Ahmedabad | 82.3 (8.73 CGPA) | July 2013 – May 2017 |
-| Higher Secondary School | Ankur School, Ahmedabad | 86.13 | June 2011 – May 2013 |
-| Secondary School | Ankur School, Ahmedabad | 91.45 | July 2010 – May 2011 |
+| Higher Secondary School (11+12 across 4 semesters) | Ankur School, Ahmedabad | 86.13 | June 2011 – May 2013 |
+| Secondary School (10th) | Ankur School, Ahmedabad | 91.45 | July 2010 – May 2011 |
 
 ## Project:
 - CDAC **::** Training project (Dec 19-Jan 19): Sensing on-board Accelerometer and Temperature data using SPI Bus Interface, Processing it on STM32F407 and sending it on Beagle Bone Black Development Board using CAN Bus.
