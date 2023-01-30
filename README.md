@@ -25,7 +25,7 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/yashpjoshi/)
 | Degree | Institute | Percentage | Graduation Year |
 | ------ | ------ | ------ | ------ |
 | PG Diploma in Embedded Systems Design | CDAC, Pune | 75.14 | August 2018 - February 2019 |
-| B.Tech in EEE | Indus University, Ahmedabad | 82.3 (8.73 CGPA) | July 2013 – May 2017 |
+| B.Tech in Electrical and Electronics Engg. | Indus University, Ahmedabad | 82.3 (8.73 CGPA) | July 2013 – May 2017 |
 | Higher Secondary School (11+12 across 4 semesters) | Ankur School, Ahmedabad | 86.13 | June 2011 – May 2013 |
 | Secondary School (10th) | Ankur School, Ahmedabad | 91.45 | July 2010 – May 2011 |
 
