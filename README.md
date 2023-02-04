@@ -16,10 +16,10 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/yashpjoshi/)
 - **Tools** : GDB, jdebug, iterm2, Visual Studio Code, svn, git, ModScan, ModSim, Eclipse.
 
 ## Experience:
-- Juniper Networks, Bangalore | Software Engineer 2 | August,2021 - Present
-- Pratiti Technologies, Pune **::** Software Developer(Apollo Energy) **::** May,2021 - July,2021
-- Pratiti Technologies, Pune **::** Software Developer(Manufacturing suite for IOT 4.0) **::** January,2021 - July,2021
-- Pratiti Technologies, Pune **::** Software Developer(IOT Gateway) **::** February,2019 - December,2020
+- Juniper Networks, Bangalore || Software Engineer 2 || August,2021 - Present
+- Pratiti Technologies, Pune || Software Developer(Apollo Energy) || May,2021 - July,2021
+- Pratiti Technologies, Pune || Software Developer(Manufacturing suite for IOT 4.0) || January,2021 - July,2021
+- Pratiti Technologies, Pune || Software Developer(IOT Gateway) || February,2019 - December,2020
 
 ## Education:
 | Degree | Institute | Percentage | Graduation Year |
