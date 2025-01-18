@@ -2,7 +2,7 @@
 Contact me: [LinkedIn](https://www.linkedin.com/in/yashpjoshi/)
 
 ## Summary:
-- A result oriented software professional with a Philomath’s approach and 4+ years ( Feb-2019 to present ) of development experience and prior 5 months of Post Graduate Diploma Course from CDAC,Pune in Embedded System Design.
+- A result oriented software professional with a Philomath’s approach and 5.9+ years ( Feb-2019 to present ) of development experience and prior 5 months of Post Graduate Diploma Course from CDAC,Pune in Embedded System Design.
 - Currently working at Juniper Networks, Bangalore as Software Engineer 2.
 - Expertise in researching, understanding and applying new skills or knowledge.
 - Strong in Programming Logic and Debugging skills.
@@ -16,7 +16,8 @@ Contact me: [LinkedIn](https://www.linkedin.com/in/yashpjoshi/)
 - **Tools** : GDB, jdebug, iterm2, Visual Studio Code, svn, git, ModScan, ModSim, Eclipse.
 
 ## Experience:
-- Juniper Networks, Bangalore || Software Engineer 2 || August,2021 - Present
+- Juniper Networks, Bangalore || Software Engineer 3 || July,2024 - Present
+- Juniper Networks, Bangalore || Software Engineer 2 || August,2021 - June,2024
 - Pratiti Technologies, Pune || Software Developer(Apollo Energy) || May,2021 - July,2021
 - Pratiti Technologies, Pune || Software Developer(Manufacturing suite for IOT 4.0) || January,2021 - July,2021
 - Pratiti Technologies, Pune || Software Developer(IOT Gateway) || February,2019 - December,2020
